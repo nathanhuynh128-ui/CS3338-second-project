@@ -1,0 +1,45 @@
+commit 963645c48f2de911d77c414cd23c444b22690622
+Merge: 691fc43 819f368
+Author: Nathan Huynh <nathanhuynh128@gmail.com>
+Date:   Thu Sep 10 23:38:02 2026 -0700
+
+    Resolve merge conflict
+
+commit 819f3685f116cf727675a64ee431d05cb8089c52
+Author: Nathan Huynh <nathanhuynh128@gmail.com>
+Date:   Thu Sep 10 23:35:51 2026 -0700
+
+    Add favorite movie
+
+commit 691fc434f929caa81168a80d64f390dca20eeef3
+Author: Nathan Huynh <nathanhuynh128@gmail.com>
+Date:   Thu Sep 10 23:33:26 2026 -0700
+
+    Add favorite food
+
+commit d8c4022e0e03c0989f892e50907451d3cd06aa63
+Author: Nathan Huynh <nathanhuynh128@gmail.com>
+Date:   Thu Sep 10 23:29:50 2026 -0700
+
+    Add README
+
+commit e2ef3052109e8d013b1d3fd0a1b896d420e95b32
+Merge: 1d2bfc0 6d047ba
+Author: nathanhuynh128-ui <nathanhuynh128@gmail.com>
+Date:   Thu Sep 10 23:25:45 2026 -0700
+
+    Merge pull request #1 from nathanhuynh128-ui/info-fill
+    
+    Fill in index information
+
+commit 6d047ba425f6bc78c4b4741d641a13d7dccbfd0b
+Author: Nathan Huynh <nathanhuynh128@gmail.com>
+Date:   Thu Sep 10 23:07:38 2026 -0700
+
+    Fill in index information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
